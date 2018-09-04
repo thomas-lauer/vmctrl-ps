@@ -1,0 +1,1 @@
+Measure-VM -ComputerName PAC03 -VMName {vmname} | FL
